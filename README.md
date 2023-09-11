@@ -30,7 +30,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 ## Contato
 
 - Email: [theominarini@outlook.com](mailto:theominarini@outlook.com)
-- LinkedIn: [heominarini](https://www.linkedin.com/in/theominarini/)
+- LinkedIn: [theominarini](https://www.linkedin.com/in/theominarini/)
 - GitHub: [TheoMinariniDeMelo](https://github.com/TheoMinariniDeMelo)
 
 
