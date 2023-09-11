@@ -29,12 +29,10 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ## Contato
 
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
-- GitHub: [seu-username-github](https://github.com/seu-username-github)
-Substitua seu-email@example.com, seu-perfil-linkedin, e seu-username-github pelos seus próprios dados de contato e perfis sociais.
+- Email: [theominarini@outlook.com](mailto:theominarini@outlook.com)
+- LinkedIn: [heominarini](https://www.linkedin.com/in/theominarini/)
+- GitHub: [TheoMinariniDeMelo](https://github.com/TheoMinariniDeMelo)
 
-Este é apenas um exemplo simples de como você pode personalizar seu README.md para refletir suas habilidades e informações de contato. Sinta-se à vontade para ajustar e estilizar conforme desejar, adicionando mais detalhes sobre sua experiência, projetos, ou qualquer outra informação que você queira destacar. Seu README é uma excelente maneira de se apresentar a potenciais colaboradores e empregadores no GitHub.
 
 
 
