@@ -17,6 +17,12 @@ Eu sou um programador full stack com experiência em diversas tecnologias, inclu
     * [![HTML](https://img.shields.io/badge/HTML-5-blue)](https://www.w3.org/TR/html5/)
     * [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/TR/css-3/)
     * [![SASS](https://img.shields.io/badge/SASS-^1.45-blue)](https://sass-lang.com/)
+* **Outras Tecnologias:**
+    * [![Docker](https://img.shields.io/badge/Docker-^20.10-blue)](https://www.docker.com/)
+    * [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-^3.10-blue)](https://www.rabbitmq.com/)
+    * [![Neo4j](https://img.shields.io/badge/Neo4j-^5.0-blue)](https://neo4j.com/)
+    * [![MongoDB](https://img.shields.io/badge/MongoDB-^6.0-blue)](https://www.mongodb.com/)
+    * [![MySQL](https://img.shields.io/badge/MySQL-^8.0-blue)](https://www.mysql.com/)
 * **Ambiente de Desenvolvimento:**
     * [![Node.js](https://img.shields.io/badge/Node.js-^18-blue)](https://nodejs.org/en/)
 
@@ -28,8 +34,3 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 * Email: [theominarini@outlook.com](mailto:theominarini@outlook.com)
 * LinkedIn: [theominarini](https://www.linkedin.com/in/theominarini/)
 * GitHub: [TheoMinariniDeMelo](https://github.com/TheoMinariniDeMelo)
-
-
-
-
-
