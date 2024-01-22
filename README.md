@@ -2,35 +2,62 @@
 
 ## Sobre Mim
 
-Eu sou um programador full stack com experiência em diversas tecnologias, incluindo:
+Sou um apaixonado programador backend com ampla experiência em diversas tecnologias. Constantemente em busca de novos desafios, enxergo cada projeto como uma oportunidade única para aprender e evoluir como desenvolvedor. Meu entusiasmo pela programação é refletido na minha dedicação em criar soluções inovadoras e eficientes.
 
-* **Linguagens de Programação:**
-    * [![Java](https://img.shields.io/badge/Java-^11-blue)](https://www.java.com/)
-    * [![JavaScript](https://img.shields.io/badge/JavaScript-^16-blue)](https://www.javascript.com/)
-    * [![TypeScript](https://img.shields.io/badge/TypeScript-^4.5-blue)](https://www.typescriptlang.org/)
-    * [![Go](https://img.shields.io/badge/Go-^1.18-blue)](https://golang.org/)
-* **Frameworks:**
-    * [![Spring](https://img.shields.io/badge/Spring-^6.0-blue)](https://spring.io/)
-    * [![Quarkus](https://img.shields.io/badge/Quarkus-^2.8-blue)](https://quarkus.io/)
-    * [![Angular](https://img.shields.io/badge/Angular-^14-blue)](https://angular.io/)
-* **Tecnologias Web:**
-    * [![HTML](https://img.shields.io/badge/HTML-5-blue)](https://www.w3.org/TR/html5/)
-    * [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/TR/css-3/)
-    * [![SASS](https://img.shields.io/badge/SASS-^1.45-blue)](https://sass-lang.com/)
-* **Outras Tecnologias:**
-    * [![Docker](https://img.shields.io/badge/Docker-^20.10-blue)](https://www.docker.com/)
-    * [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-^3.10-blue)](https://www.rabbitmq.com/)
-    * [![Neo4j](https://img.shields.io/badge/Neo4j-^5.0-blue)](https://neo4j.com/)
-    * [![MongoDB](https://img.shields.io/badge/MongoDB-^6.0-blue)](https://www.mongodb.com/)
-    * [![MySQL](https://img.shields.io/badge/MySQL-^8.0-blue)](https://www.mysql.com/)
-* **Ambiente de Desenvolvimento:**
-    * [![Node.js](https://img.shields.io/badge/Node.js-^18-blue)](https://nodejs.org/en/)
+### Linguagens
 
+<div style="display: flex; gap:10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />                
+</div>
 
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Se você quiser entrar em contato ou colaborar em projetos interessantes, sinta-se à vontade para me contatar.
+### Frameworks e Bancos de dados
 
-## Contato
+<div style="display: flex; gap:10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />                                 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />      
+</div>
 
-* Email: [theominarini@outlook.com](mailto:theominarini@outlook.com)
-* LinkedIn: [theominarini](https://www.linkedin.com/in/theominarini/)
-* GitHub: [TheoMinariniDeMelo](https://github.com/TheoMinariniDeMelo)
+### Cloud
+
+<div style="display: flex; gap:10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+</div>
+
+### Ferramentas e SO
+
+<div style="display: flex; gap:10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />                                              
+</div>
+
+### Contato
+
+<div style="display: flex; gap:10px">
+<a href="https://www.linkedin.com/in/theominarini/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+### Estatísticas do GitHub
+
+<div>
+<a href="https://github.com/TheoMinariniDeMelo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoMinariniDeMelo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoMinariniDeMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
